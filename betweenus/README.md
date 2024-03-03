@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwaksj329%2FBetweenUs_FE&count_bg=%23FF8501&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Available Scripts
+</div>
 
-In the project directory, you can run:
+# 우리끼리
 
-### `npm start`
+> 이웃과 함께 배달음식을 주문하여 치솟는 배달비 부담을 줄여주는 서비스
+> <br /> (배달음식 공동구매 플랫폼) <br /><br /> **개발 기간: 2022. 07 ~ 2022. 11**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ~~배포 주소~~ (서버 중단 상태)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> ~~[https://www.deliverytogether.com](https://www.deliverytogether.com)~~
 
-### `npm test`
+## 개발 환경
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React, JavaScript, Zustand, MUI, styled-components
 
-### `npm run build`
+## 동작 화면
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+|   <img width="313" alt="011" src="https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/ff2cefec-9769-45f2-b553-bc99c06f39b0">    | <img width="312" alt="01" src="https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/93d1474d-c17e-4447-8ab3-151c6254e92f"> |              ![03](https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/6f34cc0f-b2ec-438b-bc8b-b4b38e12a813)              |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+|                                                          공동구매 모집 개설                                                           |                                                       공동구매 모집 목록                                                        |                                                            모집 지도                                                            |
+| <img width="382" alt="IMG_7857" src="https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/a42e8f08-25e0-4df6-a1f6-434503eb3f49"> | <img width="381" alt="05" src="https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/dd0b989a-614d-4fed-9c5b-5a618ea58348"> | <img width="379" alt="04" src="https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/c4333f05-620d-4395-8df9-7ed93eaaabc4"> |
+|                                                                주문서                                                                 |                                                            주문 현황                                                            |                                                              채팅                                                               |
