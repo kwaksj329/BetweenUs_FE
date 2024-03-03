@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwaksj329%2FBetweenUs_FE&count_bg=%23FF8501&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![우리끼리](https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/18260459-a636-4fb3-938d-12398566fc10)
 
 </div>
 
@@ -24,3 +24,11 @@
 |                                                          공동구매 모집 개설                                                           |                                                       공동구매 모집 목록                                                        |                                                            모집 지도                                                            |
 | <img width="382" alt="IMG_7857" src="https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/a42e8f08-25e0-4df6-a1f6-434503eb3f49"> | <img width="381" alt="05" src="https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/dd0b989a-614d-4fed-9c5b-5a618ea58348"> | <img width="379" alt="04" src="https://github.com/kwaksj329/BetweenUs_FE/assets/75911380/c4333f05-620d-4395-8df9-7ed93eaaabc4"> |
 |                                                                주문서                                                                 |                                                            주문 현황                                                            |                                                              채팅                                                               |
+
+<br />
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwaksj329%2FBetweenUs_FE&count_bg=%23FF8501&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
